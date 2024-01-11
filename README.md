@@ -3,7 +3,7 @@
  - **I'm ad1107, who decided to return to GitHub for curating boredom.**
  - **You might know me by some of my other handles/nicknames, though.**
 
-## Why I am here?
+## Why am I here?
 
 - This is a place for me to mindstorm and (sometimes) actually doing some light, simple projects, mostly for killing time, (and for curbing game addiction, hopefully)
 - Focusing on automation tools, Python ideas, and preparing for getting knowledge about web.
