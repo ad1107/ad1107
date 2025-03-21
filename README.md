@@ -1,6 +1,6 @@
 
 
-# ![enter image description here](https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!&font=Fira%20Code&width=450&height=45&color=ffff00&vCenter=true&size=35)
+# *Greetings!*
 
  - **ad1107 - who decided to return to GitHub for curating boredom.**
  - **You might know me by some of my other handles/nicknames, though.**
