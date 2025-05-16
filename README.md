@@ -12,4 +12,5 @@
 - Active/Inactive for unspecified amount of time. This is not my work platform right now.
 
 *take this stat below as a grain of salt*
+
 ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs?username=ad1107&langs_count=6&layout=compact&theme=react&bg_color=1E2222&icon_color=F8D866&border_color=1F222E)
